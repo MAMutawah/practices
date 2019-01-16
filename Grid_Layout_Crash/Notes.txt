@@ -1,6 +1,0 @@
-+ Flex Box 
-    - one Dimension
-
-+ CSS Grids
-    - two Dimension
-
